@@ -2599,7 +2599,12 @@
 			border-radius: 0.25em;
 			display: block;
 		}
-
+		.img-responsive{
+			max-width: 100%;
+			height: auto;
+			display:block;
+			border-radius: 0.35em;
+		}
 		.image.left, .image.right {
 			max-width: 40%;
 		}
